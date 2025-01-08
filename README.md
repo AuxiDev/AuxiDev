@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A.U.X.I</h1>
+<h1 align="center">Hi 👋, I'm AUXI</h1>
 <h3 align="center">I'm a developer working on many projects! Most of them are still in heavy development but they might release any time!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auxidev&label=Profile%20views&color=0e75b6&style=flat" alt="auxidev" /> </p>
