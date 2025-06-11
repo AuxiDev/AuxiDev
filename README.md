@@ -2,25 +2,25 @@
 
 A developer with a strong focus on **modern web development**, building performant, maintainable, and scalable applications using a full-stack toolkit.
 
-🔭 Currently Working On
+🔭 **Currently Working On**
 
 -   Building fullstack applications with **SvelteKit**, **Node.js**, and **Databases**
 -   Writing clean, modular frontend code using **TypeScript**, **HTML5**, and **CSS3**
 -   Creating fast, reactive UIs with **Svelte**
 
-🤝 How I Can Help
+🤝 **How I Can Help**
 
 -   Building and deploying apps with **Node.js**
 -   Designing robust APIs and databases with **MariaDB**, **PostgreSQL**, or **MongoDB**
 -   Streamlining workflows using **Git**, **GitHub**, **Jira**, and **Docker**
 -   I also might be able to help with everything listed in **Tech Stack**
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 -   Deep diving into **C++** and **C#** when I got time
 -   New stuff on the web
 
-💬 Ask Me About
+💬 **Ask Me About**
 
 -   Why I love **Svelte** for modern UI development<br>
 
@@ -33,15 +33,3 @@ A developer with a strong focus on **modern web development**, building performa
 ![](https://github-readme-stats.vercel.app/api?username=AUXIDev&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AUXIDev&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AUXIDev&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AUXIDev&theme=default&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=AUXIDev&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AUXIDev&icon=0&color=0)](https://visitcount.itsvg.in)
